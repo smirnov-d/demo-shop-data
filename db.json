@@ -131,24 +131,6 @@
       "categoryId": 3,
       "image": "https://picsum.photos/200",
       "price": 2696
-    },
-    {
-      "id": 11,
-      "name": "product11",
-      "intro": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dignissimos ea et ex explicabo fuga maiores maxime nemo, numquam pariatur repudiandae tempora, totam ullam veritatis voluptat</p>",
-      "description": "<p>Равны</p><p>Ра</p><p>Lorem ipsum dolor sit</p><p>Равным образом рамки и место обучения кадров требуют от нас анализа соответствующий условий активизации. Разнообразный и богатый опыт постоянный ко</p><p>Разнообразный и богатый опыт постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет оценить значение новых предложений. Задача о</p>",
-      "categoryId": 1,
-      "image": "https://picsum.photos/200",
-      "price": 8853
-    },
-    {
-      "id": 12,
-      "name": "product12",
-      "intro": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dignissimos ea et ex explicabo fuga maiores maxime nemo, numquam pariatur repudiandae tempora, totam ullam veritatis volup</p>",
-      "description": "<p>Равным образом рамки и место обучения кадров тре</p>",
-      "categoryId": 1,
-      "image": "https://picsum.photos/200",
-      "price": 6673
     }
   ]
 }
