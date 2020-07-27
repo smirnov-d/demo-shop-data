@@ -149,24 +149,6 @@
       "categoryId": 1,
       "image": "https://picsum.photos/200",
       "price": 6673
-    },
-    {
-      "id": 13,
-      "name": "product13",
-      "intro": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dignissimos ea et ex explicabo fuga maiores maxime nemo, numquam pariatur repudiandae tempora, totam ullam veritat</p>",
-      "description": "<p>Повседневная практика показывает, что реализация намеченных плановых заданий играет важную роль в формировании систем массового участия. Разнообразный и богатый опыт дальнейшее развитие разл</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dignissimos ea et ex explicabo fuga maiores maxime nemo, numqu</p><p>Разнообразный и богатый опыт постоя</p>",
-      "categoryId": 7,
-      "image": "https://picsum.photos/200",
-      "price": 8506
-    },
-    {
-      "id": 14,
-      "name": "product14",
-      "intro": "<p>Равным образом рамки и место обучения кадров требуют от нас анализа соответствующий условий активизации. Разнообразный и богатый опыт постоянный количественный рост и сфера нашей активности требуют от нас анализ</p>",
-      "description": "<p>Равным образом рамки и место обучения кадров требуют от нас анализа соответствующий условий активизации. Разнообразный и богатый опыт постоянный количественный рост и сфера нашей активности тр</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dignissimos ea et ex explicabo fuga maiores maxime nemo, numquam pariatur repudiandae tempora, totam ullam veritatis voluptates? </p><p>Повседневная практика показывает, что реализация намеченных плановых заданий играет важную роль в формировании систем массового участия. Разнообразный и б</p><p>Равным образом рамки и место обучения кадров требуют от нас анализа соответствующий условий активизации. Разнообразный и богатый опыт постоянный количественный рост и сфера нашей активности требуют от нас анализа системы обучения кадров, соответствует</p>",
-      "categoryId": 9,
-      "image": "https://picsum.photos/200",
-      "price": 2921
     }
   ]
 }
